@@ -2,7 +2,7 @@
 
  **Estudante de Engenharia de Software e Embaixador DIO Campus Expert**  
 
-Sou movido pela curiosidade e pela voz de aprender. Desde que comeci na área de tecnologia, sempre busquei desafios que me fizessem evoluir, veja resolvendo problemas, julgando equipamentos ou explorando novas soluções. Acreditar que o conhecimento deve ser compartilhado e que uma inovação contace quando trocamos experiências. Fora do mundo da tecnologia, gosto de mim aprofundar em novos aspectos, descobrir ideias e construir conexões significativas. 
+Sou movido pela curiosidade e pela vontade de aprender. Desde que comecei na área de tecnologia, sempre busquei desafios que me fizessem evoluir, seja resolvendo problemas, ajudando equipes ou explorando novas soluções. Acredito que o conhecimento deve ser compartilhado e que a inovação acontece quando trocamos experiências. Fora do mundo da tecnologia, gosto de me aprofundar em novos assuntos, descobrir ideias e construir conexões significativas.  
 
 ## 🎓 **Formação Acadêmica**  
 - **Universidade Cruzeiro do Sul** – Engenharia de Software (2024 - 2026) 

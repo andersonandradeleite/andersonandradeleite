@@ -2,7 +2,7 @@
 
  **Estudante de Engenharia de Software e Embaixador DIO Campus Expert**  
 
-Sou um entusiasta da tecnologia, sempre buscando e evoluindoooooooooooó. . . . . . O crédito que uma inovação vem da troca de experiências e o desejo de resolver problemas. Minha trajetória na área de TI é armada por curiosidade e dedicação, passando por diferentes áreas e adquirindo habilidades que eu ajude a construir soluções eficientes. Além da tecnologia, gosto de estar em contato com pessoas, compartilhar conhecimento e explorar novas ideias. 
+Sou movido pela curiosidade e pela voz de aprender. Desde que comeci na área de tecnologia, sempre busquei desafios que me fizessem evoluir, veja resolvendo problemas, julgando equipamentos ou explorando novas soluções. Acreditar que o conhecimento deve ser compartilhado e que uma inovação contace quando trocamos experiências. Fora do mundo da tecnologia, gosto de mim aprofundar em novos aspectos, descobrir ideias e construir conexões significativas. 
 
 ## 🎓 **Formação Acadêmica**  
 - **Universidade Cruzeiro do Sul** – Engenharia de Software (2024 - 2026) 
